@@ -17,4 +17,5 @@ entity THERMO is
         end if;
     end process;
     end BEHAV;	
+-- This comment is for testing.
     
